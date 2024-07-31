@@ -1,4 +1,4 @@
-//% blockId=k210_models block="k210_models"
+//% blockId=k210_models block="AI_Vision_ACE"
 //%color="#585CA9" weight=25
 namespace AI_Vision_ACE {
 
